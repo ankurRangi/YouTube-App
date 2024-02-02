@@ -24,28 +24,7 @@ const VIDEOS = [
     channel: 'Ankur Rangi',
     views: '2.1M',
     timestamp: '2 days ago',
-  },{
-    image: '/thumbnail1.jpg',
-    logo: '/logo1.jpg',
-    title: 'Shark Tank Season 03 Episode 03 Full Video',
-    channel: 'Ankur Rangi',
-    views: '2.1M',
-    timestamp: '2 days ago',
-  },{
-    image: '/thumbnail1.jpg',
-    logo: '/logo1.jpg',
-    title: 'Shark Tank Season 03 Episode 03 Full Video',
-    channel: 'Ankur Rangi',
-    views: '2.1M',
-    timestamp: '2 days ago',
-  },{
-    image: '/thumbnail1.jpg',
-    logo: '/logo1.jpg',
-    title: 'Shark Tank Season 03 Episode 03 Full Video',
-    channel: 'Ankur Rangi',
-    views: '2.1M',
-    timestamp: '2 days ago',
-  },
+  }
 ]
 
 export const VideoGrid = () => {
